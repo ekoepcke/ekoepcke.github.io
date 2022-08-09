@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Work in Progress:
+## Work in Progress:
 
 
 - **“Can Hourly Workers Predict Their Short-Term Liquidity Needs? Evidence from an Earned Wage Access Fintech Experiment”** (with Luisa Cefala and Nicholas Swanson)
