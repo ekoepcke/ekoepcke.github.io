@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eric J. Koepcke"
+  name             : "Eric J. Koepcke, PhD"
   avatar           : "profile.JPG"
-  bio              : "Ph.D. Candidate in Economics, UC Berkeley"
+  bio              : ""
   location         : "New York, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
