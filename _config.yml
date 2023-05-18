@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Eric J. Koepcke"
 title_separator          : "-"
-name                     : &name "Eric J. Koepcke"
-description              : &description "Ph.D. Candidate"
+name                     : &name "Eric J. Koepcke, PhD"
+description              : &description
 url                      : https://ekoepcke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ekoepcke.github.io"
