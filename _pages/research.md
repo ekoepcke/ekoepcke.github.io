@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## Work in Progress:
-
 
 - **“Do Cure Violence Programs Reduce Gun Violence? Evidence from New York City”** (with Rachel Avram, Alaa Moussawi, and Melissa Nunez)
   - Webpage [here](https://council.nyc.gov/data/cure/)
