@@ -11,7 +11,7 @@ author_profile: true
  
 - **Report: "Pay Disparities in the NYC Municipal Workforce"**
   - Report [here](https://council.nyc.gov/data/wp-content/uploads/sites/73/2024/04/PayDisparitiesReport2024.pdf)
-  - Summary [here](https://newyorkcitycouncil.github.io/payEquityWebpage/public/index.html)
+  - Summary [here](https://council.nyc.gov/data/pay-disparities-in-nyc-2024/)
 
 - **“Can Hourly Workers Predict Their Short-Term Liquidity Needs? Evidence from an Earned Wage Access Fintech Experiment”** (with Luisa Cefala and Nicholas Swanson)
 
