@@ -13,7 +13,7 @@ author_profile: true
 - **Report: "Pay Disparities in the NYC Municipal Workforce"**
   - Report [here](https://council.nyc.gov/data/wp-content/uploads/sites/73/2024/04/PayDisparitiesReport2024.pdf)
   - Summary [here](https://council.nyc.gov/data/pay-disparities-in-nyc-2024/)
-  - Press Coverage: [Gothamist](https://gothamist.com/news/nyc-government-pays-women-of-color-less-than-white-male-coworkers-report-finds), [New York Daily News](https://www.nydailynews.com/2024/04/23/nyc-government-workers-black-hispanic-asian-paid-less-than-white-colleagues-study-city-council/), [BKReader](https://www.bkreader.com/policy-government/wage-disparities-continue-for-minority-women-in-city-jobs-8647782)
+  - Press Coverage: [Gothamist](https://gothamist.com/news/nyc-government-pays-women-of-color-less-than-white-male-coworkers-report-finds), [New York Daily News](https://www.nydailynews.com/2024/04/23/nyc-government-workers-black-hispanic-asian-paid-less-than-white-colleagues-study-city-council/), [BKReader](https://www.bkreader.com/policy-government/wage-disparities-continue-for-minority-women-in-city-jobs-8647782), [WNYC](https://www.wnyc.org/story/city-council-finds-plenty-pay-disparities)
 
 - **“Can Hourly Workers Predict Their Short-Term Liquidity Needs? Evidence from an Earned Wage Access Fintech Experiment”** (with Luisa Cefala and Nicholas Swanson)
 
