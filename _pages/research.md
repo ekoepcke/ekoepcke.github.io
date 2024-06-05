@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-- **“Do Cure Violence Programs Reduce Gun Violence? Evidence from New York City”** (with Rachel Avram, Alaa Moussawi, and Melissa Nunez) (forthcoming)
+- **“Do Cure Violence Programs Reduce Gun Violence? Evidence from New York City”** (with Rachel Avram, Alaa Moussawi, and Melissa Nunez)
   - Webpage [here](https://council.nyc.gov/data/cure/)
+  - Paper [here](https://arxiv.org/abs/2406.02459)
   - **Abstract:** Cure Violence is a community violence intervention program that aims to reduce gun violence by mediating conflicts, "treating" high-risk individuals, and changing community norms. Using NYC shootings data from 2006-2023, we assess the efficacy of Cure Violence using both difference-in-differences and event study models. We find that, on average, Cure Violence is associated with a 14% reduction in shootings relative to the counterfactual. This association persists in the years after treatment, neither increasing nor decreasing much over time. We exploit variation in the geography and timing of Cure implementation to argue against alternative explanations. Additionally, we find suggestive evidence of spillover effects into nearby precincts, as well as increasing returns to opening new Cure programs. Interpreted causally, our results imply that around 1,300 shootings were avoided between 2012-2023 due to Cure, generating a net social surplus of $2.45 billion and achieving a benefit-cost ratio of 6.5:1.
 
 - **Report: "Pay Disparities in the NYC Municipal Workforce"**
